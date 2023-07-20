@@ -1,0 +1,35 @@
+#group_btn {
+  text-align: center;
+}
+#btn_save,
+#btn_saveas,
+#btn_cancel {
+  
+  padding: 0.5rem 0.5rem;
+  width: 165px;
+  border-radius: 6px;
+
+}
+#btn_save:hover,
+#btn_saveas:hover,
+#btn_cancel:hover {
+    background-color: #af0000;
+    color: #fff;
+
+}
+
+
+.btn_search{
+    border-radius: 6px;
+    border: 1px solid red;
+    padding: 0.5rem 0.5rem;
+    margin-left: 1%;
+}
+.forminput{
+    border-radius: 6px !important;
+    border: 1px solid #ccc;
+    padding: 0.5rem 0.5rem;
+    margin-bottom: 2%;
+    width: 100%;
+
+}

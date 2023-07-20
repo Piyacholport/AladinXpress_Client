@@ -1,0 +1,51 @@
+#head_text {
+  font-weight: bolder;
+  font-size: 20px;
+}
+#bdred {
+  font-size: 14px;
+  margin-bottom: 2%;
+  padding-left: 1%;
+  /* border: 1px solid red; */
+}
+#label {
+  margin-top: 4%;
+  text-align: right;
+  color: #333;
+  font-weight: bold;
+}
+.input_type_text {
+  font-size: smaller;
+}
+#drag_and_drop_img {
+  height: 150px;
+  cursor: pointer;
+}
+.goldgd,
+#goldgd {
+  color: #fff;
+  border: none;
+  background: radial-gradient(
+      ellipse farthest-corner at right bottom,
+      #fedb37 0%,
+      #fdb931 8%,
+      #9f7928 30%,
+      #8a6e2f 40%,
+      transparent 80%
+    ),
+    radial-gradient(
+      ellipse farthest-corner at left top,
+      #ffffff 0%,
+      #ffffac 8%,
+      #d1b464 25%,
+      #5d4a1f 62.5%,
+      #5d4a1f 100%
+    );
+}
+#textarea::placeholder {
+  font: 12px;
+}
+#goldgd {
+  background-color: #fff;
+  border: none;
+}

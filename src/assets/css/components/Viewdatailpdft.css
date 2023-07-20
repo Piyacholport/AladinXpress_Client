@@ -1,0 +1,57 @@
+.name_select_ft{
+    text-decoration: underline;
+
+}
+.goldgd,#btn_goldgd {
+    color: #fff;
+    border: none;
+    background: radial-gradient(
+        ellipse farthest-corner at right bottom,
+        #fedb37 0%,
+        #fdb931 8%,
+        #9f7928 30%,
+        #8a6e2f 40%,
+        transparent 80%
+      ),
+      radial-gradient(
+        ellipse farthest-corner at left top,
+        #ffffff 0%,
+        #ffffac 8%,
+        #d1b464 25%,
+        #5d4a1f 62.5%,
+        #5d4a1f 100%
+      );
+  }
+  #btn_add_feture{
+    color: #fff;
+    border: none;
+    background: radial-gradient(
+        ellipse farthest-corner at right bottom,
+        #fedb37 0%,
+        #fdb931 8%,
+        #9f7928 30%,
+        #8a6e2f 40%,
+        transparent 80%
+      ),
+      radial-gradient(
+        ellipse farthest-corner at left top,
+        #ffffff 0%,
+        #ffffac 8%,
+        #d1b464 25%,
+        #5d4a1f 62.5%,
+        #5d4a1f 100%
+      );
+      justify-content: center;
+      width: 180px;
+      padding: 0.5rem 0.5rem;
+      border-radius: 8px;
+      float: right;
+      cursor: pointer;
+  }
+  #btn_goldgd{
+    float: right;
+  }
+  .modal_head_text_menu{
+    font-size: 16px;
+    font-weight: bold;
+  }

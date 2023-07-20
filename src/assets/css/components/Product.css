@@ -1,0 +1,155 @@
+.a_gen_barcode , #div_edit_stock{
+  text-decoration: underline;
+  color: #af0000;
+  cursor: pointer;
+}
+.border{
+ 
+  background-color: #fff;
+  
+}
+#border{
+  background-color: #fff;
+  border-radius: 10px;
+  
+}
+#xs_font_size{
+  width: 300px;
+  font-size: 10px;
+  
+}
+#s_font_size{
+  font-size: 12px;
+  font-weight: bold;
+}
+#lucide_user{
+  background-color: #af0000;
+  border: 1px solid #fff;
+  color: #fff;
+  border-radius: 15px;
+  padding: 0.2rem 0.2rem;
+
+}
+.h4{
+  font-size: 16px;
+  font-weight: bold;
+}
+.p-15{
+  padding-top: 1%;
+  padding-left: 3%;
+}
+.unit_price{
+  text-align: center;
+  width: 100px;
+  border-radius: 15px;
+  color: #fff;
+  background-color: #af0000;
+}
+.status_product{
+  text-align: center;
+  border-radius: 15px;
+  color: #fff;
+
+}
+
+.status_product2{
+  text-align: center;
+  border-radius: 15px;
+  color: #fff;
+}.type_product{
+  text-align: center;
+  width: 120px;
+  border-radius: 15px;
+  color: #fff;
+  background-color: #af0000;
+}
+.type_categories{
+  text-align: center;
+  width: 120px;
+
+  background-color: #ddd;
+}
+.forminputdate{
+  width:50%;
+  border: 1px solid #ccc;
+}
+#lucide_datetime{
+  color: #000;
+}
+#bar_data{
+  margin-bottom:2% ;
+}
+#btn_search {
+  font-size: 14px;
+  margin-left: 8px;
+  background-color: #af0000;
+  color: white;
+  border: none;
+  
+}
+#btn_booking_list{
+  background-color: #ddd;
+  padding: 5px 5px;
+  border-radius: 5px;
+
+}
+#head_text{
+  font-weight: bolder;
+  font-size: 20px;
+}
+.Lucide_ChevronUp{
+  color: green;
+}
+#categories_select{
+  float: right;
+  border-bottom: 1px solid #333;
+  border-radius: 0;
+  margin-bottom: 3%;
+  width: 200px;
+  
+}
+
+#btn_editpd {
+  color: #fff;
+  border: none;
+  background: radial-gradient(
+      ellipse farthest-corner at right bottom,
+      #fedb37 0%,
+      #fdb931 8%,
+      #9f7928 30%,
+      #8a6e2f 40%,
+      transparent 80%
+    ),
+    radial-gradient(
+      ellipse farthest-corner at left top,
+      #ffffff 0%,
+      #ffffac 8%,
+      #d1b464 25%,
+      #5d4a1f 62.5%,
+      #5d4a1f 100%
+    );
+    margin-left: 73%;
+}
+#btn_Xcircle{
+  cursor: pointer;
+justify-content: end;
+color: #666;
+}
+#btn_Xcircle:hover{
+  color: #af0000;
+}
+.modal_head_text{
+  font-size: 16px;
+  font-weight: bold;
+
+}
+.checkboxcategory{
+  border-radius: 6px !important;
+}
+
+.checkboxcategory:checked{
+  background-color: #af0000 !important;
+}
+.checkboxcategory:hover{
+  background-color: #af0000 !important;
+}
